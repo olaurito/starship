@@ -1,0 +1,20 @@
+{
+  "name": "starship/dev",
+  "description": "Teste prático AML - Starships",
+  "authors": [
+    {
+      "name": "Olaurito Neto",
+      "email": "linkinneto.bsi@gmail.com"
+    }
+  ],
+  "autoload": {
+    "psr-4": {
+      "App\\": "App/"
+    },
+    "files": [
+      "App/config/Database.php"
+    ]
+  },
+  "require": {
+  }
+}
